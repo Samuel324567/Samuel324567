@@ -3,11 +3,9 @@
 🎓 Estudante de **Desenvolvimento de Sistemas** no **SENAI**  
 💻 Apaixonado por **programação**, **tecnologia** e por criar soluções inteligentes  
 🚀 Buscando crescer como desenvolvedor e contribuir com projetos reais
-![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samuel324567&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
-
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel324567&layout=compact&theme=radical)
 
 ## 🧠 Atualmente estou aprendendo
 
@@ -16,7 +14,6 @@
 - 🗃️ **Banco de Dados (MySQL)**
 - 🛠️ **Git e GitHub**
 - 🧩 **Lógica de Programação**
-- ### 🛠️ Tecnologias e ferramentas
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
