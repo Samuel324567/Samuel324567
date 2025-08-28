@@ -34,8 +34,8 @@
 
 📸 Instagram: [@seuusuario](https://instagram.com/seuusuario)  
 ✉️ Email: seuemail@email.com  
-📱 WhatsApp: (xx) xxxxx-xxxx
+📱 WhatsApp: (11) 91224-0204
 
 ---
 
-**Obrigado por visitar meu perfil! 🙌**
+
