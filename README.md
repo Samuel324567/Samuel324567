@@ -3,8 +3,8 @@
 🎓 Estudante de **Desenvolvimento de Sistemas** no **SENAI**  
 💻 Apaixonado por **programação**, **tecnologia** e por criar soluções inteligentes  
 🚀 Buscando crescer como desenvolvedor e contribuir com projetos reais
-![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samuel324567&show_icons=true&theme=radical)
 
+![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samuel324567&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel324567&layout=compact&theme=radical)
 
 ## 🧠 Atualmente estou aprendendo
