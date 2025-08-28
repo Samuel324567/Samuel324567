@@ -30,10 +30,13 @@ Um site desenvolvido com HTML, CSS e JavaScript para apresentar meu perfil e meu
 
 ## 📫 Como falar comigo
 
-📸 Instagram: [@samuel.falco_](https://instagram.com/samuel.falco_)  
-✉️ Email: samuel@email.com  
-📱 WhatsApp: [(11) 91224-0204](https://wa.me/5511912240204)
+<a href="https://instagram.com/graciasxl" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+<a href="mailto:samuelgracias293@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+<a href="https://wa.me/5511912240204" target="_blank">
+  <img src="https://img.shields.io/badge/-WhatsApp-%25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+</a>
 
----
-
-**Obrigado por visitar meu perfil! 😄**
