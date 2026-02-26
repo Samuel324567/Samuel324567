@@ -1,7 +1,6 @@
 # 👋 Olá! Eu sou Samuel Gustavo Gracias Dio Falco
 
 🎓 Estudante de **Desenvolvimento de Sistemas** no **SENAI**  
-💻 Apaixonado por **programação**, **tecnologia** e por criar soluções inteligentes  
 🚀 Buscando crescer como desenvolvedor e contribuir com projetos reais
 
 ![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samuel324567&show_icons=true&theme=radical)
@@ -20,21 +19,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
 
-
 ---
-
-## 💼 Projetos em Destaque
-
-### 🗂️ Sistema de Cadastro de Alunos  
-Projeto simples em Java com interface para cadastrar alunos utilizando banco de dados.
-
-### 🌐 Site Portfólio Pessoal  
-Um site desenvolvido com HTML, CSS e JavaScript para apresentar meu perfil e meus projetos.
-
-> *(Em breve, mais projetos serão adicionados!)*
-
----
-
 ## 📫 Como falar comigo
 
 <a href="https://instagram.com/graciasxl" target="_blank">
@@ -46,4 +31,3 @@ Um site desenvolvido com HTML, CSS e JavaScript para apresentar meu perfil e meu
 <a href="https://wa.me/5511912240204" target="_blank">
   <img src="https://img.shields.io/badge/-WhatsApp-%25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
 </a>
-
