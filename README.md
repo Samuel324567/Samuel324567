@@ -1,10 +1,23 @@
+<img width="1983" height="793" alt="ChatGPT Image 30_04_2026, 20_01_34" src="https://github.com/user-attachments/assets/5d6a4824-ac30-460c-a302-aa60eaa2ff3a" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
 # 👋 Olá! Eu sou Samuel Gustavo Gracias Dio Falco
 
 🎓 Estudante de **Desenvolvimento de Sistemas** no **SENAI**  
 🚀 Buscando crescer como desenvolvedor e contribuir com projetos reais
-
-![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samuel324567&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel324567&layout=compact&theme=radical)
 
 ## 🧠 Atualmente estou aprendendo
 
