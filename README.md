@@ -16,9 +16,7 @@
 
 💻 Desenvolvedor focado em criar soluções **práticas, eficientes e inteligentes**  
 🚀 Sempre buscando evoluir e aprender novas tecnologias  
-🐉 Mentalidade de crescimento constante (Dragon Mode)
-
-> Transformando ideias em código, uma linha por vez.
+🐉 Mentalidade de crescimento constante 
 
 ---
 
@@ -38,34 +36,18 @@
 </p>
 
 ---
-
-## 🚀 Atualmente
-
-- 📚 Estudando desenvolvimento Web e Backend  
-- 🧪 Criando projetos como ERP, fóruns e sistemas  
-- 🎯 Buscando evoluir como desenvolvedor profissional  
-
----
-
-## 🐉 Dragon Mode
-
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="400"/>
-</p>
 
----
+  <a href="https://instagram.com/graciasxl" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 
-## 📊 Estatísticas
+  <a href="https://wa.me/5511912240204" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
-</p>
+  <a href="mailto:samuelgracias293@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
----
-
-## 📫 Contato
-
-<p align="center">
-  📧 samuelgracias293@gmail.com
 </p>
