@@ -1,4 +1,4 @@
-> "<img width="1983" height="793" alt="ChatGPT Image 30_04_2026, 20_15_27" src="https://github.com/user-attachments/assets/9301ea2b-67eb-478b-9816-ef3e127d6ee7" />
+> <img width="1983" height="793" alt="ChatGPT Image 30_04_2026, 20_15_27" src="https://github.com/user-attachments/assets/9301ea2b-67eb-478b-9816-ef3e127d6ee7" />
 
 <!-- BANNER -->
 <p align="center">
@@ -50,4 +50,6 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
 </p>
